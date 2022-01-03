@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I'm Pascal, a Freelance self-taught Full Stack Web Developer from La Rochelle in France 🇫🇷. I've a strong interest for DevOps, Webdesign and Agile. I really enjoy working on Symfony with Mercure, API Platform for the backend, React JS with NextJS and Wordpress for the front-part.
+I'm Pascal, a Freelance self-taught Full Stack Web Developer from La Rochelle in France 🇫🇷. 
+
+I've a strong interest for DevOps, Webdesign and Agile. I really enjoy working on Symfony with Mercure, API Platform for the backend, React JS with NextJS and Wordpress for the front-part.
+
+- 💪🏻 I'm currently refactoring my [portfolio in NextJS, GraphQL and Typescript](https://github.com/Akiletour/inrage).
+- 💡 I'm currently learning Typescript !
 
 ## 🛠 Tech Stack
 
