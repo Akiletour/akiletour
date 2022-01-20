@@ -42,3 +42,4 @@ I've a strong interest for DevOps, Webdesign and Agile. I really enjoy working o
 [![inRage.fr](https://img.shields.io/badge/inrage.fr-%23337AB7.svg?&style=flat-square&logo=google-chrome&logoColor=white)](https://www.inrage.fr) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akiletour) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/akiletour)
+<img src="https://komarev.com/ghpvc/?username=akiletour&style=flat-square&color=2591F6" alt="Akiletour" />
